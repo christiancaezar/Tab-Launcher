@@ -1,0 +1,17 @@
+.navbar{
+    height: 82px;
+    background-color: var(--main);
+}
+.nav-text{
+    color: var(--white);
+    font-size: 30px;
+    font-weight: bold;
+}
+.nav{
+    padding: 0px 35px;
+}
+
+.bi-person-circle{
+    font-size: 40px;
+    color: var(--white);
+}
